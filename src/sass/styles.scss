@@ -1,0 +1,23 @@
+@import './utils/fonts';
+@import './utils/constants';
+
+@import './pages/home';
+@import './pages/store';
+@import './pages/checkout';
+@import './pages/product';
+
+@import './components/header';
+
+
+@font-face {
+    font-family: 'Sequel';
+    font-style: normal;
+    font-weight: 500;
+    font-display: swap;
+    src: url("../fonts/sequel_normal.woff") format('woff');
+}
+  
+
+body{
+    font-family:Sequel!important;
+}
