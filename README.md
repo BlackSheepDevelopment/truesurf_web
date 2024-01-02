@@ -1,4 +1,4 @@
-# BlackSheep Storefront Child Theme
+# True Surf Concept Store Storefront Child Theme
 
 **Developed by: Elmer Raúl Escandón Tufino**
 
