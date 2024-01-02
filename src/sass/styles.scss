@@ -10,14 +10,14 @@
 
 
 @font-face {
-    font-family: 'Sequel';
+    font-family: 'Roboto';
     font-style: normal;
     font-weight: 500;
     font-display: swap;
-    src: url("../fonts/sequel_normal.woff") format('woff');
+    src: url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');;
 }
   
 
 body{
-    font-family:Sequel!important;
+    font-family:Roboto!important;
 }
