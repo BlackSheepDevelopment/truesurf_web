@@ -13,7 +13,7 @@ module.exports = [
             main: ["./src/entries/main.js", "./src/sass/styles.scss"],
         },
         output: {
-            filename: "./dist/[name].min.js",
+            filename: "./dist/[name].[hash].min.js",
             path: path.resolve(__dirname),
             publicPath: "./",
         },
@@ -57,7 +57,7 @@ module.exports = [
         plugins: [
             // css extraction into dedicated file
             new MiniCssExtractPlugin({
-                filename: "./dist/main.min.css",
+                filename: "./dist/main.[hash].min.css",
             }),
             new AssetsPlugin({
                 filename: "assets.json",
