@@ -94,28 +94,28 @@ get_header();
         <div class="col-full categories">
             <p class="categories__title">Categorías</p>
             <div class="categories-container">
-                <a class="custom-btn btn-15" href="<?php echo get_term_link(get_term_by('slug', 'true-wireless', 'product_cat')->term_id); ?>">
+                <a class="custom-btn btn-15" href="<?php echo get_term_link(get_term_by('slug', 'pitas', 'product_cat')->term_id); ?>">
                     <img class="categories__item__icon" src="<?php echo get_stylesheet_directory_uri() . '/src/images/icons/ICON_TW.png' ?>" />
 
-                    <p class="categories__item__title">True Wireless</p>
+                    <p class="categories__item__title">Pitas</p>
                 </a>
-                <a class="custom-btn btn-15" href="<?php echo get_term_link(get_term_by('slug', 'headphones', 'product_cat')->term_id); ?>">
+                <a class="custom-btn btn-15" href="<?php echo get_term_link(get_term_by('slug', 'decks', 'product_cat')->term_id); ?>">
                     <img class="categories__item__icon" src="<?php echo get_stylesheet_directory_uri() . '/src/images/icons/ICON_HP.png' ?>" />
 
-                    <p class="categories__item__title">Headphones</p>
+                    <p class="categories__item__title">Decks</p>
                 </a>
-                <a class="custom-btn btn-15" href="<?php echo get_term_link(get_term_by('slug', 'cableados', 'product_cat')->term_id); ?>">
+                <a class="custom-btn btn-15" href="<?php echo get_term_link(get_term_by('slug', 'tablas', 'product_cat')->term_id); ?>">
                     <img class="categories__item__icon" src="<?php echo get_stylesheet_directory_uri() . '/src/images/icons/ICON_CABLEADOS.png' ?>" />
 
                     <p class="categories__item__title">
-                        Cableados
+                        Tablas
                     </p>
                 </a>
-                <a class="custom-btn btn-15" href="<?php echo get_term_link(get_term_by('slug', 'accesorios', 'product_cat')->term_id); ?>">
+                <a class="custom-btn btn-15" href="<?php echo get_term_link(get_term_by('slug', 'fundas', 'product_cat')->term_id); ?>">
                     <img class="categories__item__icon" src="<?php echo get_stylesheet_directory_uri() . '/src/images/icons/ICON_LENTES.png' ?>" />
 
                     <p class="categories__item__title">
-                        Accesorios
+                        Fundas
                     </p>
                 </a>
             </div>
