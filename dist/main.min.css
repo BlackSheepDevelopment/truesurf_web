@@ -61,8 +61,7 @@
             transform: scale(0.95); }
       .slider-container .slider .slider__image .slider__image__img {
         width: 100%;
-        height: 100%;
-        object-fit: cover; }
+        height: 100%; }
     .slider-container .slider .slider__image--2 {
       object-position: 50% 4%; }
   .slider-container button {
