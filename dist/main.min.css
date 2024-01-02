@@ -12,8 +12,7 @@
     .slider-container .slider .slider__image {
       position: relative;
       width: 33.33%;
-      height: 95vh;
-      object-fit: cover; }
+      height: 95vh; }
       .slider-container .slider .slider__image .slider__image__info {
         position: absolute;
         top: 70%;
@@ -281,6 +280,9 @@
     margin-bottom: 1em;
     outline: none;
     border: 1px solid #C9A9F2; }
+
+.site-main {
+  padding-top: 0rem !important; }
 
 @keyframes pulse {
   0% {

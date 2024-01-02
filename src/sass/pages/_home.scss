@@ -12,7 +12,7 @@
             position: relative;
             width: 33.33%; // 100% / number of images
             height: 95vh;
-            object-fit: cover;
+            // object-fit: cover;
 
             .slider__image__info{
                 position: absolute;
@@ -377,6 +377,10 @@
         outline: none;  
         border: 1px solid $lavanda_bs;
     }
+}
+
+.site-main{
+    padding-top: 0rem!important;
 }
 
 // Define the pulse animation
