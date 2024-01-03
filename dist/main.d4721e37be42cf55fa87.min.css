@@ -16,8 +16,7 @@
     .slider-container .slider .slider__image {
       position: relative;
       width: 33.33%;
-      height: 96vh;
-      object-fit: scale-down; }
+      height: 96vh; }
       .slider-container .slider .slider__image .slider__image__info {
         position: absolute;
         top: 70%;
@@ -66,7 +65,8 @@
             transform: scale(0.95); }
       .slider-container .slider .slider__image .slider__image__img {
         width: 100%;
-        height: 100%; }
+        height: 100%;
+        object-fit: scale-down; }
     .slider-container .slider .slider__image--2 {
       object-position: 50% 4%; }
   .slider-container button {
