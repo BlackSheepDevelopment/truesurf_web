@@ -128,7 +128,7 @@ get_header();
                 <p class="info-container__content__info">
                     Recibe asesoría personalizada para encontrar la tabla que mejor se adapte a tus objetivos y actividades en Surf.
                 </p>
-                <a src="" class="info-container__content__button">Contáctanos aquí</a>
+                <a src="https://wa.link/9720fg" class="info-container__content__button">Contáctanos aquí</a>
             </div>
             <img src="<?php echo get_stylesheet_directory_uri() . '/src/images/BS_BANNER_6.jpg' ?>" class="info-container__image" />
         </div>
