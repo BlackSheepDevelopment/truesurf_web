@@ -11,8 +11,8 @@
         .slider__image {
             position: relative;
             width: 33.33%; // 100% / number of images
-            height: 95vh;
-            // object-fit: cover;
+            height: 96vh;
+            object-fit: scale-down;
 
             .slider__image__info{
                 position: absolute;

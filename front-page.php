@@ -124,11 +124,11 @@ get_header();
 
         <div class="info-container">
             <div class="info-container__content">
-                <p class="info-container__content__title">Haz que tu Música Hable por Ti</p>
+                <p class="info-container__content__title">Encuentra una tabla perfecta para ti</p>
                 <p class="info-container__content__info">
-                    BlackSheep no solo ofrece productos de audio; ofrecemos una forma de vida. Exprésate a través de la música y deja que tus auriculares hablen por ti. Descubre cómo tu estilo puede sonar.
+                    Recibe asesoría personalizada para encontrar la tabla que mejor se adapte a tus objetivos y actividades en Surf.
                 </p>
-                <p class="info-container__content__subtitle">Vive Fuerte, Escucha Fuerte</p>
+                <a src="" class="info-container__content__button">Contáctanos aquí</a>
             </div>
             <img src="<?php echo get_stylesheet_directory_uri() . '/src/images/BS_BANNER_6.jpg' ?>" class="info-container__image" />
         </div>

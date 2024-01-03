@@ -16,7 +16,8 @@
     .slider-container .slider .slider__image {
       position: relative;
       width: 33.33%;
-      height: 95vh; }
+      height: 96vh;
+      object-fit: scale-down; }
       .slider-container .slider .slider__image .slider__image__info {
         position: absolute;
         top: 70%;
