@@ -130,7 +130,7 @@ get_header();
                 </p>
                 <a href="https://wa.link/9720fg" target="_blank" class="info-container__content__button">Contáctanos aquí</a>
             </div>
-            <img src="<?php echo get_stylesheet_directory_uri() . '/src/images/BS_BANNER_6.jpg' ?>" class="info-container__image" />
+            <img src="<?php echo get_stylesheet_directory_uri() . '/src/images/TABLA_RESERVA_2.png' ?>" class="info-container__image" />
         </div>
 
         <div class="find-us col-full">
