@@ -44,7 +44,7 @@
                     cursor: pointer;
                     color: white;
                     font-size: 1.5em;
-                    background-color: $orange_bs;
+                    background-color: black;
                     padding: 0.5em 1em;
                     border-radius: 10px;
                     text-decoration: none;
@@ -351,12 +351,12 @@
     top: 0;
     right: 0;
     z-index: -1;
-    background-color: $lavanda_bs;
+    background-color: black;
     transition: all 0.3s ease;
 }
 
 .btn-15:hover {
-    color: black;
+    color: white;
 }
 
 .btn-15:hover:after {
