@@ -25,6 +25,18 @@
     ?>
 </head>
 
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-0VYF6V14XF"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+    gtag('js', new Date());
+
+    gtag('config', 'G-0VYF6V14XF');
+</script>
+
 <body <?php body_class(); ?>>
 
     <?php wp_body_open(); ?>
